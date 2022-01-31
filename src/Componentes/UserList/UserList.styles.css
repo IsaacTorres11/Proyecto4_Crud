@@ -1,0 +1,28 @@
+.Usuarios{
+    display: flex;
+    flex-wrap:  wrap;
+    margin: 20px 0;
+}
+
+.Usuarios .usuario{
+    list-style: none;
+    border: 1px solid red;
+    width: 30%;
+    margin: 10px ;
+    display: inline-block;
+}
+
+
+.Usuarios .usuario .eliminar{
+    font-size: 10px;
+    color: red;
+}
+
+
+.Usuarios .usuario i{
+    font-size: 20px;
+    margin: 5px 10px;
+    color: red;
+
+}
+

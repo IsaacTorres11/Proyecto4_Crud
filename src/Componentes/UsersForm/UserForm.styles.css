@@ -1,0 +1,44 @@
+.formulario{
+    background: #24303c;
+    width: 40%;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.formulario .Enviar{
+    background: #177ee6;
+    color: white;
+    width: 30%;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 1em;   
+}
+
+.formulario .Cancelar{
+    background: #e62817;
+    color: white;
+    width: 30%;
+    margin: 0 auto;   
+    padding: 10px;
+    font-size: 1em;
+}
+
+.formulario .contedor-formulario{
+    color: white;
+    font-family: 'Source';
+}
+
+.formulario .contedor-formulario .control{
+    width: 80%;
+    color: white;
+    background: #24303c;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    border: 1px solid #1f53c5;
+}
+
+.formulario .contedor-formulario .fecha{
+    color: white;
+}
